@@ -1,0 +1,9 @@
+# OS / Editor noise
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
+
+# Quickshell caches
+*.qmlc
